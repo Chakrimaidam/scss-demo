@@ -2,14 +2,22 @@
    "name": "@chakrimaidam/scss-demo",
   "version": "1.0.0",
   "description": "Display scss files",
-  "main": "index.js",
+  "main": "scss/index.scss",
+  "keywords": [
+    "scss",
+    "tokens",
+    "colors",
+    "text"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "repository":{
     "url": "https://github.com/chakrimaidam/scss-demo.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "scss/"
+  ]
 }
